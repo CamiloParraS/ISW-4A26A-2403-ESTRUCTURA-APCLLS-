@@ -1,7 +1,4 @@
-"""
-data_structures/bed_array.py — Healcia · Peciatech
-Fixed-size array representing ICU beds with O(1) index access.
-"""
+""
 
 from typing import Any, Optional
 
