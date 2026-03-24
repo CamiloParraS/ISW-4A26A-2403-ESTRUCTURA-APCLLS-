@@ -1,6 +1,4 @@
-"""
-models/action.py — Healcia · Peciatech
-"""
+""
 
 from dataclasses import dataclass, field
 from datetime import datetime
