@@ -1,7 +1,4 @@
-"""
-data_structures/intervention_history.py — Healcia · Peciatech
-Singly linked list that records each medical procedure in visit order.
-"""
+""
 
 from typing import Optional
 
