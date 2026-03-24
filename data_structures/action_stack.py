@@ -1,7 +1,4 @@
-"""
-data_structures/action_stack.py — Healcia · Peciatech
-LIFO stack for undoable medical actions.
-"""
+""
 
 from typing import Any, Optional
 
